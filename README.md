@@ -25,6 +25,18 @@ Requirements
 * iRODS 4.X.X iCommands CLI
 * bash 4.2
 
+Usage
+-----
+
+Set the execute bit for the script
+```
+$ chmod 755 iput_wrapper.bash
+```
+Execute the script without parameters to get the help text
+```
+$ ./iput_wrapper.bash
+```
+
 License
 -------
 
