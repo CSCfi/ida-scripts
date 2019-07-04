@@ -1,3 +1,5 @@
+# This repository was made for an older version of IDA which is no longer in use
+
 iput_wrapper
 ========
 
